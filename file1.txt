@@ -3,5 +3,6 @@ there are three types of vcs
 lvcs 
 cvcs
 dvcs
-learing
+learning
+new things
 thank you
